@@ -3,10 +3,11 @@
 
 ### 目录
 
-- [2017-03-29](#2017-03-29)
-- [2017-04-05](#2017-04-05)
-- [2017-04-12](#2017-04-12)
-- [2017-04-19](#2017-04-19)
+- [2017-03-29 Cultural Cognition Theory & Medical Risk Perception and Decisions](#2017-03-29)
+- [2017-04-05 Shared Decision Making and Doctor-Patient Trust](#2017-04-05)
+- [2017-04-12 Doctor-patient communication and perspective-taking](#2017-04-12)
+- [2017-04-19 Paradox of Mental Disorders and Its Explanations & Lay theories on health](#2017-04-19)
+
 
 # 2017-03-29
 
