@@ -4,13 +4,13 @@
 ### 目录
 
 - [2017-03-29](#2017-03-29)
-- [2017年4月5日](#2017年度第2期：主题(Subject) （4月5日）)
+- [# 2017-04-05](## 2017-04-05)
 - [2017年4月12日](#2017年度第3期：主题(Subject) （4月12日）)
 - [2017年4月19日](#2017年度第4期：主题(Subject) （4月19日）)
 
 # 2017-03-29
 
-## 主题(Subject) （3月29日）
+## 2017年度第1期：主题(Subject) （3月29日）
 文化认知理论及医疗风险感知与决策
 
 Cultural Cognition Theory & Medical Risk Perception and Decisions
@@ -65,8 +65,9 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 付春野 | 硕士生 | 社会心理学
 以下实时更新中 | XX | XX
 
+# 2017-04-05
 
-# 2017年度第2期：主题(Subject) （4月5日）
+## 2017年度第2期：主题(Subject) （4月5日）
 
 医患共享决策与医患信任
 
