@@ -1,7 +1,7 @@
 
 本文档列出南开大学社会心理学系汪新建、周一骑、吕小康等老师及其学生的联合组会主题信息。
 
-Below listed seminar information co-hosted by Professor [Wang Xinjin](http://zfxy.nankai.edu.cn/wangxinjian), Zhou Yiqi(http://zfxy.nankai.edu.cn/zhouyiqi) and associate professor [Lyu Xiaokang](http://zfxy.nankai.edu.cn/xk).
+Below listed seminar information co-hosted by Professor [Wang Xinjin](http://zfxy.nankai.edu.cn/wangxinjian), [Zhou Yiqi](http://zfxy.nankai.edu.cn/zhouyiqi) and associate professor [Lyu Xiaokang](http://zfxy.nankai.edu.cn/xk) since March, 2017.
 
 ### 目录
 
