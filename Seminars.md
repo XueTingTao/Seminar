@@ -7,7 +7,7 @@
 - [2017-04-05 Shared Decision Making and Doctor-Patient Trust](#2017-04-05)
 - [2017-04-12 Doctor-patient communication and perspective-taking](#2017-04-12)
 - [2017-04-19 Paradox of Mental Disorders and Its Explanations & Lay theories on health](#2017-04-19)
-
+- [2017-04-26 Media Effects on Doctor-patient Trust & Doctor-Patient Trust  in rural areas of china from the Perspective of social psychology](#2017-04-26)
 
 # 2017-03-29
 
@@ -124,7 +124,7 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 付春野 | 硕士生 | 社会心理学
 以下实时更新中 | XX | XX
 
-# 2017-04-19
+# 2017-04-12
 
 ## 2017年度第3期：主题(Subject) （4月12日）
 
@@ -289,3 +289,86 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 郭琴 | 硕士生 | 社会心理学
 付春野 | 硕士生 | 社会心理学
 以下实时更新中 | XX | XX
+
+# 2017-04-26
+
+## 2017年度第5期：主题(Subject) （4月26日）
+
+媒体报道对医患信任的影响
+
+Media Effects on Doctor-patient Trust
+
+社会心理学视角下中国农村医患信任研究
+
+Doctor-Patient Trust  in rural areas of china from the Perspective of social psychology
+
+## 主讲人(Speakers)
+
+### 上半场（Part A）
+
+王骥  博士生
+
+Wang Ji,  PHD Candidate
+
+### 下半场（Part B）
+
+王乃磊 博士生
+
+Wang Nailei, PHD Candidate
+
+## 时间(Time)
+
+2017年4月26日（周三）下午14:00
+
+14:00, April 26(Wensday), 2017. 
+
+
+## 地址(Location)
+
+南开大学周恩来政府管理学院大楼，325教室。
+
+Room 325, Zhou Enlai School Buiding, Nankai University, Tianjin
+
+## 文献(Literature)
+
+上半场
+
+* 汪新建, 王骥. (2017). [媒体中的医方形象及其对医患信任的影响](http://njsfdxskb.paperonce.org//oa/darticle.aspx?type=view&id=201702014). *南京师大学报(社会科学版),* (6), 99-104.
+
+* 孙彩芹. (2010). [框架理论发展35年文献综述——兼述内地框架理论发展11年的问题和建议](http://mall.cnki.net/magazine/article/GJXW201009007.htm). *国际新闻界,* (9), 18-24.
+
+* Passalacqua, R., Caminiti, C., Salvagni, S., Barni, S., Beretta, G. D., & Carlini, P., ...Campione, F. (2004). [Effects of media information on cancer patients' opinions, feelings, decision‐making process and physician‐patient communication](https://www.researchgate.net/publication/7960025_Effects_of_Media_Information_on_Cancer_Patients%27_Opinions_Feelings_Decision-Making_Process_and_Physician-Patient_Communication). *Cancer, 100*(5), 1077-1084.
+
+
+
+下半场
+
+* 房莉杰, 梁小云, 金承刚. (2013). [乡村社会转型时期的医患信任——以我国中部地区两村为例](http://www.shxyj.org/Magazine/show/?id=860). *社会学研究,* (2), 55-77.
+* 翟学伟. (2014). [信任的本质及其文化](http://www.society.shu.edu.cn/CN/abstract/abstract13915.shtml). *社会, 34*(1), 1-26.
+* 邓晓晓, 席修明, 王晓燕, 杨佳, 马晓. (2014). [基于患方视角的北京市村落医患信任现状调查](http://mall.cnki.net/magazine/Article/YXSH201412001.htm). *医学与社会,* (12), 1-3.
+* 周新歌, 王晓燕, 申昆玲, 董屹, 马晓, 周慧姊. (2015). [基于北京市农村居民视角的城乡医患信任现状研究](http://mall.cnki.net/magazine/Article/YXSH201507022.htm). *医学与社会, 28*(7), 64-66.
+
+## 下载地址(Download)
+
+在医患信任群内给出
+
+## 参与人(Participants)
+
+姓名 | 职务  | 专业
+-----|-------|----
+汪新建 | 教授 | 社会心理学
+吕小康 | 副教授 | 社会心理学
+张曜 | 博士生 | 社会心理学
+张慧娟 | 博士生 | 社会心理学
+王丛 | 博士生 | 社会心理学
+王骥 | 博士生 | 社会心理学
+唐磊 | 博士生 | 社会心理学
+冯勇 | 博士生 | 社会心理学
+王乃磊  | 博士生 | 社会心理学
+郐一杰 | 博士生 | 社会心理学
+赵晓繁 | 硕士生 | 社会心理学
+武迪 | 硕士生 | 社会心理学
+郭琴 | 硕士生 | 社会心理学
+付春野 | 硕士生 | 社会心理学
+以下实时更新中 | XX | XX
+
