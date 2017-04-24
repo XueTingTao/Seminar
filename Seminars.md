@@ -343,9 +343,16 @@ Room 325, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 下半场
 
+* Andaleeb, S. S. (1996). [An experimental investigation of satisfaction and commitment in marketing channels: the role of trust and dependence](https://www.researchgate.net/publication/222750375_An_experimental_investigation_of_satisfaction_and_commitment_in_marketing_channels_The_role_of_trust_and_dependence). *Journal of Retailing, 72*(1), 77-93.
+
+* Doney, P., Cannon, J., Mullen, M. (1998). [Understanding the Influence of National Culture on the Development of Trust](http://amr.aom.org/content/23/3/601.short). *The Academy of Management Review, 23*(3), 601-620.
+
 * 房莉杰, 梁小云, 金承刚. (2013). [乡村社会转型时期的医患信任——以我国中部地区两村为例](http://www.shxyj.org/Magazine/show/?id=860). *社会学研究,* (2), 55-77.
+
 * 翟学伟. (2014). [信任的本质及其文化](http://www.society.shu.edu.cn/CN/abstract/abstract13915.shtml). *社会, 34*(1), 1-26.
+
 * 邓晓晓, 席修明, 王晓燕, 杨佳, 马晓. (2014). [基于患方视角的北京市村落医患信任现状调查](http://mall.cnki.net/magazine/Article/YXSH201412001.htm). *医学与社会,* (12), 1-3.
+
 * 周新歌, 王晓燕, 申昆玲, 董屹, 马晓, 周慧姊. (2015). [基于北京市农村居民视角的城乡医患信任现状研究](http://mall.cnki.net/magazine/Article/YXSH201507022.htm). *医学与社会, 28*(7), 64-66.
 
 ## 下载地址(Download)
