@@ -1,7 +1,7 @@
 
 本文档列出南开大学社会心理学系汪新建、周一骑、吕小康等老师及其学生的联合组会主题信息。
 
-Below listed seminar information co-hosted by Professor [Wang Xinjin](http://zfxy.nankai.edu.cn/wangxinjian), [Zhou Yiqi](http://zfxy.nankai.edu.cn/zhouyiqi) and associate professor [Lyu Xiaokang](http://zfxy.nankai.edu.cn/xk) since March, 2017.
+Below listed information of seminars co-hosted by Professor [Wang Xinjin](http://zfxy.nankai.edu.cn/wangxinjian), [Zhou Yiqi](http://zfxy.nankai.edu.cn/zhouyiqi) and associate professor [Lyu Xiaokang](http://zfxy.nankai.edu.cn/xk) since March, 2017.
 
 ### 目录(Contents)
 
@@ -66,6 +66,8 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 武迪 | 硕士生 | 社会心理学
 郭琴 | 硕士生 | 社会心理学
 付春野 | 硕士生 | 社会心理学
+胡健 | 硕士生  | 社会心理学
+隋晓阳 | 本科生  | 社会心理学
 以下实时更新中 | XX | XX
 
 # 2017-04-05
@@ -124,6 +126,8 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 武迪 | 硕士生 | 社会心理学
 郭琴 | 硕士生 | 社会心理学
 付春野 | 硕士生 | 社会心理学
+胡健 | 硕士生  | 社会心理学
+隋晓阳 | 本科生  | 社会心理学
 以下实时更新中 | XX | XX
 
 # 2017-04-12
@@ -207,6 +211,8 @@ Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
 武迪 | 硕士生 | 社会心理学
 郭琴 | 硕士生 | 社会心理学
 付春野 | 硕士生 | 社会心理学
+胡健 | 硕士生  | 社会心理学
+隋晓阳 | 本科生  | 社会心理学
 以下实时更新中 | XX | XX
 
 
@@ -290,6 +296,8 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 武迪 | 硕士生 | 社会心理学
 郭琴 | 硕士生 | 社会心理学
 付春野 | 硕士生 | 社会心理学
+胡健 | 硕士生  | 社会心理学
+隋晓阳 | 本科生  | 社会心理学
 以下实时更新中 | XX | XX
 
 # 2017-04-26
