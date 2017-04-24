@@ -3,7 +3,7 @@
 
 Below listed seminar information co-hosted by Professor [Wang Xinjin](http://zfxy.nankai.edu.cn/wangxinjian), [Zhou Yiqi](http://zfxy.nankai.edu.cn/zhouyiqi) and associate professor [Lyu Xiaokang](http://zfxy.nankai.edu.cn/xk) since March, 2017.
 
-### 目录
+### 目录(Contents)
 
 - [2017-03-29 Cultural Cognition Theory & Medical Risk Perception and Decisions](#2017-03-29)
 - [2017-04-05 Shared Decision Making and Doctor-Patient Trust](#2017-04-05)
