@@ -10,7 +10,7 @@ Below listed information of seminars co-hosted by Professor [Wang Xinjin](http:/
 - [2017-04-12 Doctor-patient communication and perspective-taking](#2017-04-12)
 - [2017-04-19 Paradox of Mental Disorders and Its Explanations & Lay theories on health](#2017-04-19)
 - [2017-04-26 Media Effects on Doctor-patient Trust & Doctor-Patient Trust  in rural areas of china from the Perspective of social psychology](#2017-04-26)
-
+- [2017-05-10 Academic master pre-defense](#2017-05-10)
 # 2017-03-29
 
 ## 2017年度第1期：主题(Subject) （3月29日）
@@ -364,6 +364,89 @@ Room 325, Zhou Enlai School Buiding, Nankai University, Tianjin
 * 邓晓晓, 席修明, 王晓燕, 杨佳, 马晓. (2014). [基于患方视角的北京市村落医患信任现状调查](http://mall.cnki.net/magazine/Article/YXSH201412001.htm). *医学与社会,* (12), 1-3.
 
 * 周新歌, 王晓燕, 申昆玲, 董屹, 马晓, 周慧姊. (2015). [基于北京市农村居民视角的城乡医患信任现状研究](http://mall.cnki.net/magazine/Article/YXSH201507022.htm). *医学与社会, 28*(7), 64-66.
+
+## 下载地址(Download)
+
+在医患信任群内给出
+
+## 参与人(Participants)
+
+姓名 | 职务  | 专业
+-----|-------|----
+汪新建 | 教授 | 社会心理学
+吕小康 | 副教授 | 社会心理学
+张曜 | 博士生 | 社会心理学
+张慧娟 | 博士生 | 社会心理学
+王丛 | 博士生 | 社会心理学
+王骥 | 博士生 | 社会心理学
+唐磊 | 博士生 | 社会心理学
+冯勇 | 博士生 | 社会心理学
+王乃磊  | 博士生 | 社会心理学
+郐一杰 | 博士生 | 社会心理学
+赵晓繁 | 硕士生 | 社会心理学
+武迪 | 硕士生 | 社会心理学
+郭琴 | 硕士生 | 社会心理学
+付春野 | 硕士生 | 社会心理学
+以下实时更新中 | XX | XX
+
+# 2017-05-10
+
+## 2017年度第6期：主题(Subject) （05月10日）
+
+项目进展汇报与学科评估工作安排
+
+the Report of Project Progress  and the Arrangement of Discipline Assessment Works 
+
+学术硕士预答辩
+
+Academic master pre-defense
+
+## 答辩人(respondents)
+
+### 第一场（Part A）
+
+贾婷  硕士生               
+
+Jia Ting,  Master
+
+A Study on the Psychological Mechanism of the Influence of Power on Cognitive Decision
+
+权力影响认知决策的心理机制研究
+
+### 第二场（Part B）
+
+申悦 硕士生
+
+Shen Yue, Master
+
+ 国内医患信任危机中医患双方对消极医疗结果的责任归因研究
+ 
+ A Study on the Responsibility Attribution of Traditional Chinese Medicine and Patients to Negative Medical Achievements
+ 
+### 第三场（Part C） 
+
+刘颖 硕士生
+
+Liu Ying, Master
+
+医生群体刻板印象及其影响因素——基于刻板印象内容模型的研究
+
+Stereotype Impression of the Doctors and Influential Factors ——A Study Based on Stereotype Content Model
+
+## 时间(Time)
+
+2017年5月10日（周三）下午14:00
+
+14:00, May 10(Wensday), 2017. 
+
+
+## 地址(Location)
+
+南开大学周恩来政府管理学院大楼，129教室。
+
+Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
+
+
 
 ## 下载地址(Download)
 
