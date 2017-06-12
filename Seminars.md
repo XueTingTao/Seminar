@@ -11,6 +11,7 @@ Below listed information of seminars co-hosted by Professor [Wang Xinjin](http:/
 - [2017-04-19 Paradox of Mental Disorders and Its Explanations & Lay theories on health](#2017-04-19)
 - [2017-04-26 Media Effects on Doctor-patient Trust & Doctor-Patient Trust  in rural areas of china from the Perspective of social psychology](#2017-04-26)
 - [2017-05-10 Academic master pre-defense](#2017-05-10)
+- [2017-06-15 The arrangments about daily work](#2017-06-15)
 # 2017-03-29
 
 ## 2017年度第1期：主题(Subject) （3月29日）
@@ -445,6 +446,67 @@ Stereotype Impression of the Doctors and Influential Factors ——A Study Based
 南开大学周恩来政府管理学院大楼，129教室。
 
 Room 129, Zhou Enlai School Buiding, Nankai University, Tianjin
+
+
+
+## 下载地址(Download)
+
+在医患信任群内给出
+
+## 参与人(Participants)
+
+姓名 | 职务  | 专业
+-----|-------|----
+汪新建 | 教授 | 社会心理学
+吕小康 | 副教授 | 社会心理学
+张曜 | 博士生 | 社会心理学
+张慧娟 | 博士生 | 社会心理学
+王丛 | 博士生 | 社会心理学
+王骥 | 博士生 | 社会心理学
+唐磊 | 博士生 | 社会心理学
+冯勇 | 博士生 | 社会心理学
+王乃磊  | 博士生 | 社会心理学
+郐一杰 | 博士生 | 社会心理学
+赵晓繁 | 硕士生 | 社会心理学
+武迪 | 硕士生 | 社会心理学
+郭琴 | 硕士生 | 社会心理学
+付春野 | 硕士生 | 社会心理学
+以下实时更新中 | XX | XX
+
+# 2017-06-15
+
+## 2017年度第7期：主题(Subject) （06月15日）
+
+日常工作安排与推进   
+
+## 内容（content）
+
+* 论文发表、年度报告撰写事宜
+
+* 2018年度《中国社会心理学评论》的组稿
+
+* 社会心态和医患信任量表下一步的工作
+
+* 数据库的建设情况和如何利用
+
+* 暑期学校的安排
+
+* 硕士开题准备
+
+* 下一步的项目工作的推动和安排
+
+## 时间(Time)
+
+2017年6月15日（周四）下午14:00
+
+14:00, June 15(Thursday), 2017. 
+
+
+## 地址(Location)
+
+南开大学周恩来政府管理学院大楼，324教室。
+
+Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 
 
