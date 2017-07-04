@@ -6,7 +6,7 @@ This repo was build for the seminars of Department of Social Psychology, Nankai 
 
 Below listed information of seminars co-hosted by Professor [Wang Xinjin](http://zfxy.nankai.edu.cn/wangxinjian), [Zhou Yiqi](http://zfxy.nankai.edu.cn/zhouyiqi) and associate professor [Lyu Xiaokang](http://zfxy.nankai.edu.cn/xk) since March, 2017.
 
-For all the published papers and relative works, please chech this [link}(https://pan.baidu.com/s/1c2IhsBY).
+For all the published papers and relative works, please chech this [link](https://pan.baidu.com/s/1c2IhsBY).
 
 欲了解本项目所有相关成果，请点击此[链接](https://pan.baidu.com/s/1c2IhsBY)。
 
