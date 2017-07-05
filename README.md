@@ -47,7 +47,7 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 
 ## 文献(Literature)
 
-* 汪新建, 张慧娟, 吕小康. 文化对个体风险感知的影响: 文化认知理论的解释. 投稿中.
+* 汪新建, 张慧娟, 武迪, 吕小康. (2017). 文化对个体风险感知的影响: 文化认知理论的解释. *心理科学进展, 25* (8): 1251-1260.
 
 * Kahan, D. M., Jamieson, K. H., Landrum, A., & Winneg, K. (2017). [Culturally antagonistic memes and the Zika virus: an experimental test](http://www.tandfonline.com/doi/pdf/10.1080/13669877.2016.1260631?needAccess=true). *Journal of Risk Research, 20*(1), 1-40.
 
