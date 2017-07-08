@@ -12,6 +12,7 @@ Below listed information of seminars co-hosted by Professor [Wang Xinjin](http:/
 - [2017-04-26 Media Effects on Doctor-patient Trust & Doctor-Patient Trust  in rural areas of china from the Perspective of social psychology](#2017-04-26)
 - [2017-05-10 Academic master pre-defense](#2017-05-10)
 - [2017-06-15 The arrangments about daily work](#2017-06-15)
+- [2017-07-11 The arrangments about daily work](#2017-07-11)
 # 2017-03-29
 
 ## 2017年度第1期：主题(Subject) （3月29日）
@@ -533,4 +534,51 @@ Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
 郭琴 | 硕士生 | 社会心理学
 付春野 | 硕士生 | 社会心理学
 以下实时更新中 | XX | XX
+
+# 2017-7-11
+
+## 2017年度第8期：主题(Subject) （07月11日）
+
+日常工作安排与推进   
+
+## 内容（content）
+
+* 暑假工作安排
+
+* 项目工作的推动与总结
+
+## 时间(Time)
+
+2017年7月11日（周二）上午10:00
+
+10:00, July 11(Tuesday), 2017. 
+
+
+## 地址(Location)
+
+南开大学周恩来政府管理学院大楼，324教室。
+
+Room 324, Zhou Enlai School Buiding, Nankai University, Tianjin
+
+## 参与人(Participants)
+
+姓名 | 职务  | 专业
+-----|-------|----
+汪新建 | 教授 | 社会心理学
+吕小康 | 副教授 | 社会心理学
+张曜 | 博士生 | 社会心理学
+张慧娟 | 博士生 | 社会心理学
+王丛 | 博士生 | 社会心理学
+王骥 | 博士生 | 社会心理学
+唐磊 | 博士生 | 社会心理学
+冯勇 | 博士生 | 社会心理学
+王乃磊  | 博士生 | 社会心理学
+郐一杰 | 博士生 | 社会心理学
+赵晓繁 | 硕士生 | 社会心理学
+武迪 | 硕士生 | 社会心理学
+郭琴 | 硕士生 | 社会心理学
+付春野 | 硕士生 | 社会心理学
+以下实时更新中 | XX | XX
+
+
 
